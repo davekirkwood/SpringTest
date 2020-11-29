@@ -16,7 +16,7 @@ import net.davekirkwood.springspeedtest.model.Model;
 @RestController
 public class ModelController {
 
-	private static final String dbMicroserviceAddress = "http://localhost:8081/db/";
+	private static final String dbMicroserviceAddress = "http://serviceb/db/";
 	
 	@Autowired
 	private RestTemplate restTemplate = new RestTemplate();
