@@ -1,0 +1,1000 @@
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 151
+Read     = 5566
+Real all = 22
+Update   = 3246
+Delete   = 3143
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 18
+Read     = 5349
+Real all = 18
+Update   = 3248
+Delete   = 3226
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 18
+Read     = 4632
+Real all = 10
+Update   = 3057
+Delete   = 3050
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 19
+Read     = 4366
+Real all = 9
+Update   = 2962
+Delete   = 3060
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 17
+Read     = 4391
+Real all = 10
+Update   = 2960
+Delete   = 3007
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4356
+Real all = 9
+Update   = 2994
+Delete   = 3214
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 21
+Read     = 4479
+Real all = 9
+Update   = 3114
+Delete   = 3331
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 17
+Read     = 4466
+Real all = 9
+Update   = 3285
+Delete   = 3050
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4625
+Real all = 9
+Update   = 3015
+Delete   = 3404
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 18
+Read     = 4518
+Real all = 9
+Update   = 3125
+Delete   = 3159
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4572
+Real all = 9
+Update   = 3150
+Delete   = 3086
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4434
+Real all = 8
+Update   = 3163
+Delete   = 3150
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4709
+Real all = 10
+Update   = 3229
+Delete   = 3140
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4595
+Real all = 9
+Update   = 3050
+Delete   = 3191
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4728
+Real all = 8
+Update   = 3164
+Delete   = 3146
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4686
+Real all = 8
+Update   = 3043
+Delete   = 3025
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4547
+Real all = 8
+Update   = 3155
+Delete   = 3209
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4678
+Real all = 8
+Update   = 3163
+Delete   = 3189
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4672
+Real all = 9
+Update   = 3074
+Delete   = 3115
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4593
+Real all = 9
+Update   = 3037
+Delete   = 3126
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4563
+Real all = 9
+Update   = 3085
+Delete   = 3143
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 19
+Read     = 4936
+Real all = 9
+Update   = 3616
+Delete   = 3140
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4975
+Real all = 9
+Update   = 3035
+Delete   = 2984
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4415
+Real all = 8
+Update   = 3308
+Delete   = 3138
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4483
+Real all = 9
+Update   = 2985
+Delete   = 3129
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4484
+Real all = 8
+Update   = 2896
+Delete   = 3060
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 5267
+Real all = 8
+Update   = 3279
+Delete   = 3724
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 19
+Read     = 5135
+Real all = 9
+Update   = 3129
+Delete   = 3150
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4681
+Real all = 9
+Update   = 2999
+Delete   = 3167
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4955
+Real all = 8
+Update   = 3221
+Delete   = 3140
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 17
+Read     = 4754
+Real all = 9
+Update   = 3068
+Delete   = 3006
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4621
+Real all = 9
+Update   = 2887
+Delete   = 2968
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4497
+Real all = 9
+Update   = 2907
+Delete   = 2940
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4459
+Real all = 8
+Update   = 2932
+Delete   = 2953
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4511
+Real all = 8
+Update   = 3039
+Delete   = 3162
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4666
+Real all = 8
+Update   = 3342
+Delete   = 3298
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 5002
+Real all = 8
+Update   = 3367
+Delete   = 3260
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4933
+Real all = 14
+Update   = 3247
+Delete   = 3307
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4800
+Real all = 8
+Update   = 3360
+Delete   = 3220
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 18
+Read     = 4790
+Real all = 9
+Update   = 3171
+Delete   = 3215
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4795
+Real all = 9
+Update   = 3182
+Delete   = 3162
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4702
+Real all = 8
+Update   = 3494
+Delete   = 3200
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 5069
+Real all = 9
+Update   = 3365
+Delete   = 3397
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 5152
+Real all = 9
+Update   = 3138
+Delete   = 2948
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4449
+Real all = 8
+Update   = 2916
+Delete   = 3093
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4606
+Real all = 8
+Update   = 2945
+Delete   = 3079
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4548
+Real all = 8
+Update   = 3049
+Delete   = 2981
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 24
+Read     = 4495
+Real all = 8
+Update   = 3077
+Delete   = 3358
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4693
+Real all = 8
+Update   = 3032
+Delete   = 3992
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 18
+Read     = 5007
+Real all = 8
+Update   = 3386
+Delete   = 3806
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 17
+Read     = 4808
+Real all = 8
+Update   = 3774
+Delete   = 3424
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 17
+Read     = 4995
+Real all = 9
+Update   = 3422
+Delete   = 3314
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 18
+Read     = 5265
+Real all = 9
+Update   = 3160
+Delete   = 3108
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4849
+Real all = 8
+Update   = 3028
+Delete   = 3278
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4855
+Real all = 7
+Update   = 2926
+Delete   = 2945
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4806
+Real all = 12
+Update   = 3314
+Delete   = 3700
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4764
+Real all = 8
+Update   = 3249
+Delete   = 3147
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4695
+Real all = 8
+Update   = 3133
+Delete   = 3632
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 17
+Read     = 4830
+Real all = 10
+Update   = 3034
+Delete   = 3102
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4705
+Real all = 8
+Update   = 3039
+Delete   = 3070
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4554
+Real all = 7
+Update   = 3246
+Delete   = 3549
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4766
+Real all = 6
+Update   = 3119
+Delete   = 3110
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4940
+Real all = 8
+Update   = 3083
+Delete   = 3156
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4802
+Real all = 9
+Update   = 3145
+Delete   = 3182
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4733
+Real all = 8
+Update   = 3117
+Delete   = 3130
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4719
+Real all = 9
+Update   = 3207
+Delete   = 3266
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4874
+Real all = 8
+Update   = 3242
+Delete   = 3177
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4742
+Real all = 8
+Update   = 3113
+Delete   = 3128
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 13
+Read     = 4716
+Real all = 9
+Update   = 3057
+Delete   = 3123
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 23
+Read     = 4660
+Real all = 8
+Update   = 3099
+Delete   = 3145
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4675
+Real all = 9
+Update   = 3055
+Delete   = 3352
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 16
+Read     = 4538
+Real all = 7
+Update   = 2869
+Delete   = 2932
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4470
+Real all = 8
+Update   = 3103
+Delete   = 2985
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4515
+Real all = 8
+Update   = 2899
+Delete   = 2948
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 5016
+Real all = 9
+Update   = 3027
+Delete   = 3026
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4399
+Real all = 8
+Update   = 2876
+Delete   = 2922
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4392
+Real all = 8
+Update   = 2856
+Delete   = 2889
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4382
+Real all = 8
+Update   = 2884
+Delete   = 2898
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4388
+Real all = 8
+Update   = 2871
+Delete   = 2932
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 13
+Read     = 4442
+Real all = 8
+Update   = 2845
+Delete   = 2911
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4397
+Real all = 7
+Update   = 2953
+Delete   = 2880
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4424
+Real all = 7
+Update   = 2931
+Delete   = 2881
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4447
+Real all = 8
+Update   = 2889
+Delete   = 2899
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4374
+Real all = 8
+Update   = 2870
+Delete   = 2922
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4607
+Real all = 8
+Update   = 3019
+Delete   = 3287
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4681
+Real all = 8
+Update   = 3577
+Delete   = 3179
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 13
+Read     = 4540
+Real all = 8
+Update   = 2865
+Delete   = 2892
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4420
+Real all = 7
+Update   = 2929
+Delete   = 2923
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4427
+Real all = 8
+Update   = 2853
+Delete   = 2896
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 13
+Read     = 4447
+Real all = 8
+Update   = 2815
+Delete   = 2901
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4396
+Real all = 9
+Update   = 2846
+Delete   = 2969
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4437
+Real all = 8
+Update   = 2949
+Delete   = 2929
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4413
+Real all = 8
+Update   = 2865
+Delete   = 2986
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 13
+Read     = 4462
+Real all = 8
+Update   = 2851
+Delete   = 2902
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4384
+Real all = 10
+Update   = 2906
+Delete   = 2885
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 14
+Read     = 4502
+Real all = 7
+Update   = 2960
+Delete   = 3017
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4423
+Real all = 7
+Update   = 2831
+Delete   = 2876
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 13
+Read     = 4400
+Real all = 8
+Update   = 2986
+Delete   = 2975
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 15
+Read     = 4409
+Real all = 7
+Update   = 2891
+Delete   = 2904
+10000 records created.
+10000 records read.
+All records read length = 636683
+10000 records updated.
+10000 records deleted.
+Create   = 19
+Read     = 4417
+Real all = 9
+Update   = 2888
+Delete   = 2901
