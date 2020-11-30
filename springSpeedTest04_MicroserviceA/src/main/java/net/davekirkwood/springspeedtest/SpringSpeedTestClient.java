@@ -23,7 +23,7 @@ public class SpringSpeedTestClient {
 			List<Model> myModels = new ArrayList<Model>();
 	
 			for (int i = 0; i < MODEL_COUNT; i++) {
-				Model model = new Model(i + 1, "Model number " + (i + 1), i + 1);
+				Model model = new Model(i + 1, "Model number " + (i + 1), i + 1, 123.4, "Another string", 123);
 				myModels.add(model);
 			}	
 	
@@ -75,8 +75,12 @@ public class SpringSpeedTestClient {
 	private static void addModels(List<Model> models) {
 		StringBuilder sb = new StringBuilder("[ ");
 		for(Model model : models) {
-			sb.append( "{\"key\": \"" + model.getKey() + "\", " + "\"modelName\": \"" + model.getModelName()
-			+ "\", " + "\"modelNumber\": \"" + model.getModelNumber() + "\"},");
+			sb.append( "{\"key\": \"" + model.getKey() + "\", " 
+					+ "\"modelName\": \"" + model.getModelName() + "\", "
+					+ "\"myDouble\": \"" + model.getMyDouble() + "\", "
+					+ "\"myString\": \"" + model.getMyString() + "\", "
+					+ "\"myInt\": \"" + model.getMyInt() + "\", "
+					+ "\"modelNumber\": \"" + model.getModelNumber() + "\"},");
 		}
 		sb.deleteCharAt(sb.length()-1);
 		sb.append("]");
