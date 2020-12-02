@@ -1,0 +1,600 @@
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1165
+Real all = 843
+Delete   = 30
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1150
+Real all = 840
+Delete   = 45
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 997
+Real all = 861
+Delete   = 25
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1043
+Real all = 770
+Delete   = 27
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1188
+Real all = 865
+Delete   = 52
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1012
+Real all = 752
+Delete   = 31
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 2278
+Real all = 648
+Delete   = 30
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 944
+Real all = 760
+Delete   = 27
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 900
+Real all = 674
+Delete   = 62
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1998
+Real all = 594
+Delete   = 23
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 951
+Real all = 897
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1007
+Real all = 665
+Delete   = 61
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 822
+Real all = 872
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 833
+Real all = 691
+Delete   = 30
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 856
+Real all = 630
+Delete   = 34
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1025
+Real all = 669
+Delete   = 24
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 2070
+Real all = 671
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1020
+Real all = 702
+Delete   = 26
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1211
+Real all = 789
+Delete   = 27
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1955
+Real all = 667
+Delete   = 31
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1928
+Real all = 951
+Delete   = 26
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 908
+Real all = 681
+Delete   = 30
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1851
+Real all = 758
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1049
+Real all = 764
+Delete   = 23
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1214
+Real all = 596
+Delete   = 24
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 990
+Real all = 660
+Delete   = 23
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1033
+Real all = 742
+Delete   = 19
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 889
+Real all = 876
+Delete   = 27
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 2202
+Real all = 645
+Delete   = 20
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1846
+Real all = 557
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 991
+Real all = 622
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1255
+Real all = 674
+Delete   = 34
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1166
+Real all = 705
+Delete   = 34
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1889
+Real all = 936
+Delete   = 25
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 978
+Real all = 745
+Delete   = 36
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 903
+Real all = 605
+Delete   = 19
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 980
+Real all = 947
+Delete   = 37
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1106
+Real all = 961
+Delete   = 61
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1005
+Real all = 595
+Delete   = 23
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1822
+Real all = 766
+Delete   = 39
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 959
+Real all = 938
+Delete   = 25
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 985
+Real all = 956
+Delete   = 41
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1090
+Real all = 728
+Delete   = 77
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 2154
+Real all = 901
+Delete   = 61
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1146
+Real all = 798
+Delete   = 146
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1269
+Real all = 949
+Delete   = 43
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 2464
+Real all = 1161
+Delete   = 47
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1226
+Real all = 867
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1436
+Real all = 687
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1952
+Real all = 1119
+Delete   = 56
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1216
+Real all = 1208
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 911
+Real all = 833
+Delete   = 23
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 2067
+Real all = 668
+Delete   = 35
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1069
+Real all = 2394
+Delete   = 25
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1477
+Real all = 953
+Delete   = 29
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1129
+Real all = 950
+Delete   = 61
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1078
+Real all = 926
+Delete   = 38
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1126
+Real all = 901
+Delete   = 35
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1072
+Real all = 1111
+Delete   = 29
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1194
+Real all = 841
+Delete   = 26
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1142
+Real all = 709
+Delete   = 15
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 996
+Real all = 909
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1253
+Real all = 618
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 939
+Real all = 819
+Delete   = 19
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1146
+Real all = 707
+Delete   = 49
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1017
+Real all = 686
+Delete   = 36
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1249
+Real all = 582
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 2150
+Real all = 651
+Delete   = 26
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 879
+Real all = 705
+Delete   = 15
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1129
+Real all = 659
+Delete   = 29
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 789
+Real all = 661
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1053
+Real all = 881
+Delete   = 26
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1027
+Real all = 846
+Delete   = 24
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 986
+Real all = 676
+Delete   = 16
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1242
+Real all = 1442
+Delete   = 26
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1139
+Real all = 915
+Delete   = 32
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 983
+Real all = 572
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 929
+Real all = 927
+Delete   = 34
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1495
+Real all = 707
+Delete   = 23
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 969
+Real all = 868
+Delete   = 61
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1475
+Real all = 613
+Delete   = 23
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1413
+Real all = 554
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 928
+Real all = 699
+Delete   = 25
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 878
+Real all = 788
+Delete   = 32
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 977
+Real all = 731
+Delete   = 64
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1160
+Real all = 813
+Delete   = 52
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1181
+Real all = 1016
+Delete   = 24
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 858
+Real all = 892
+Delete   = 22
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 996
+Real all = 862
+Delete   = 53
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1084
+Real all = 604
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 889
+Real all = 580
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1049
+Real all = 614
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1011
+Real all = 735
+Delete   = 20
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1017
+Real all = 689
+Delete   = 18
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 888
+Real all = 1220
+Delete   = 28
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 1347
+Real all = 954
+Delete   = 19
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 889
+Real all = 672
+Delete   = 21
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 986
+Real all = 792
+Delete   = 29
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 2218
+Real all = 754
+Delete   = 20
+10000 records created.
+All records read length = 1206683
+10000 records deleted.
+Create   = 998
+Real all = 692
+Delete   = 30
