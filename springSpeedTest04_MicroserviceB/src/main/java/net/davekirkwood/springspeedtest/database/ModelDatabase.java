@@ -33,6 +33,11 @@ public class ModelDatabase {
 		}
 	}
 	
+	public void clear() {
+		models.clear();
+	}
+	
+	
 	public Model readModel(int modelId) {
 		return models.get(modelId);
 	}

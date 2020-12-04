@@ -43,6 +43,12 @@ public class ModelController {
 		database.deleteModel(id);
 	}
 	
+	@RequestMapping(method=RequestMethod.GET, value="/clear")
+	public void clear() {
+		database.clear();
+	}
+	
+	
 	@RequestMapping(method=RequestMethod.PUT, value="/model/{id}/{newName}")
 	public void updateModelName(@PathVariable int id, @PathVariable String newName) {
 		database.updateModelName(id, newName);
