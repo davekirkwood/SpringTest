@@ -12,6 +12,8 @@ import java.util.List;
 import net.davekirkwood.springspeedtest.model.Model;
 
 public class SpringSpeedTestClient {
+	
+	private static String serviceAAddress = "http://localhost:8081/";
 
 	private static final int MODEL_COUNT = 10000;
 
@@ -88,34 +90,34 @@ public class SpringSpeedTestClient {
 		
 		startDate = new Date();
 		
-		httpReq("http://localhost:8080/addmodels", "POST", sb.toString(), false);
+		httpReq(serviceAAddress + "addmodels", "POST", sb.toString(), false);
 	}
 	
 	
 	private static void addModel(Model model) {
 		String jsonInputString = "{\"key\": \"" + model.getKey() + "\", " + "\"modelName\": \"" + model.getModelName()
 			+ "\", " + "\"modelNumber\": \"" + model.getModelNumber() + "\"}";
-		httpReq("http://localhost:8080/model", "POST", jsonInputString, false);
+		httpReq(serviceAAddress + "model", "POST", jsonInputString, false);
 	}
 	
 	private static String getSize() {
-		return httpReq("http://localhost:8080/model/size", "GET", null, true);
+		return httpReq(serviceAAddress + "model/size", "GET", null, true);
 	}
 	
 	private static String readModel(int id) {
-		return httpReq("http://localhost:8080/model/" + id, "GET", null, true);
+		return httpReq(serviceAAddress + "model/" + id, "GET", null, true);
 	}
 	
 	private static String readAllModels() {
-		return httpReq("http://localhost:8080/models", "GET", null, true);
+		return httpReq(serviceAAddress + "models", "GET", null, true);
 	}
 	
 	private static void updateModelName(int id, String newName) {
-		httpReq("http://localhost:8080/model/" + id + "/" + newName + "", "PUT", null, false);
+		httpReq(serviceAAddress + "model/" + id + "/" + newName + "", "PUT", null, false);
 	}
 	
 	private static void deleteModel(int id) {
-		httpReq("http://localhost:8080/model/" + id, "DELETE", null, false);
+		httpReq(serviceAAddress + "model/" + id, "DELETE", null, false);
 	}
 	
 	private static String httpReq(String url, String method, String output, boolean responseRequired) {
