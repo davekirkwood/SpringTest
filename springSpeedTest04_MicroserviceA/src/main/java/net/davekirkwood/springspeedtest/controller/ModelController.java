@@ -17,9 +17,8 @@ import net.davekirkwood.springspeedtest.model.Model;
 public class ModelController {
 
 //	private static final String dbMicroserviceAddress = "http://serviceb/db/";
-//	private static final String dbMicroserviceAddress = "https://8081-1788ae54-857a-4362-a352-c110bee921c4.europe-west1.cloudshell.dev/db/";
-	private static final String dbMicroserviceAddress = "https://8081-1788ae54-857a-4362-a352-c110bee921c4.europe-west1.cloudshell.dev/db/models/db/";
-	
+	private static final String dbMicroserviceAddress = "https://8080-1788ae54-857a-4362-a352-c110bee921c4.europe-west1.cloudshell.dev/db/";
+//	private static final String dbMicroserviceAddress = "http://localhost:8080/db/";
 	@Autowired
 	private RestTemplate restTemplate = new RestTemplate();
 	
