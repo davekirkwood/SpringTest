@@ -1,0 +1,1 @@
+../java/i586/jdk1.8.0_241/bin/java -cp testclient.jar net.davekirkwood.springspeedtest.SpringSpeedTestClient http://192.168.1.64:8081/
