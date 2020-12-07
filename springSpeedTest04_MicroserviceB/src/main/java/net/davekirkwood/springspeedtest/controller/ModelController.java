@@ -27,7 +27,6 @@ public class ModelController {
 	
 	@RequestMapping(method=RequestMethod.POST, value="/addmodels")
 	public void addModel(@RequestBody List<Model> models) {
-		System.out.println("Service B Add Model");
 		for(Model model : models) {
 			database.addModel(model);
 		}

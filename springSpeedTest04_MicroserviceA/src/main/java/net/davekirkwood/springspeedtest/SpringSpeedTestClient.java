@@ -13,13 +13,16 @@ import net.davekirkwood.springspeedtest.model.Model;
 
 public class SpringSpeedTestClient {
 	
-	private static String serviceAAddress = "http://localhost:8081/";
+	private static String serviceAAddress = "http://192.168.1.64:8081/";
 
 	private static final int MODEL_COUNT = 10000;
 
 	private static Date startDate;
 	
 	public static void main(String[] args) {
+		
+		serviceAAddress = args[0];
+		
 		for(int z=0; z<100; z++) {
 				
 			List<Model> myModels = new ArrayList<Model>();
