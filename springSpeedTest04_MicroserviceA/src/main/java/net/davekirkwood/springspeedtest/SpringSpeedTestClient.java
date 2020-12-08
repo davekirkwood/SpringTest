@@ -13,7 +13,7 @@ import net.davekirkwood.springspeedtest.model.Model;
 
 public class SpringSpeedTestClient {
 	
-	private static String serviceAAddress = "http://192.168.1.64:8081/";
+	private static String serviceAAddress = "http://localhost:8080/";
 
 	private static final int MODEL_COUNT = 10000;
 
@@ -21,7 +21,9 @@ public class SpringSpeedTestClient {
 	
 	public static void main(String[] args) {
 		
-		serviceAAddress = args[0];
+		if(args.length > 0) {
+			serviceAAddress = args[0];
+		}
 		
 		for(int z=0; z<100; z++) {
 				
@@ -40,40 +42,43 @@ public class SpringSpeedTestClient {
 	
 			Date createDate = new Date();
 			
-			List<String> readModels = new ArrayList<>();
-			for(Model model : myModels) {
-				String m = readModel(model.getKey());
-	//			System.out.println(m);
-				readModels.add(m);
-			}
-			System.out.println(readModels.size() + " records read.");
-			
-			Date readDate = new Date();
+//			List<String> readModels = new ArrayList<>();
+//			for(Model model : myModels) {
+//				String m = readModel(model.getKey());
+//	//			System.out.println(m);
+//				readModels.add(m);
+//			}
+//			System.out.println(readModels.size() + " records read.");
+//			
+//			Date readDate = new Date();
 			
 			String allModels = readAllModels();
 			System.out.println("All records read length = " + (allModels.length()));
 			
 			Date readAllDate = new Date();
-			
-			for(Model model : myModels) {
-				updateModelName(model.getKey(), "NewModel" + (model.getKey()));
-			}
-			System.out.println(getSize() + " records updated.");
-			
-			Date updateDate = new Date();
-			
-			for(Model model : myModels) {
-				deleteModel(model.getKey());
-			}
-			System.out.println((myModels.size() - Integer.valueOf(getSize())) + " records deleted.");
-			
+//			
+//			for(Model model : myModels) {
+//				updateModelName(model.getKey(), "NewModel" + (model.getKey()));
+//			}
+//			System.out.println(getSize() + " records updated.");
+//			
+//			Date updateDate = new Date();
+//			
+//			for(Model model : myModels) {
+//				deleteModel(model.getKey());
+//			}
+//			System.out.println((myModels.size() - Integer.valueOf(getSize())) + " records deleted.");
+//			
+			clear();
 			Date deleteDate = new Date();
+
+			
 			
 			System.out.println("Create   = " + (createDate.getTime() - startDate.getTime()));
-			System.out.println("Read     = " + (readDate.getTime() - createDate.getTime()));
-			System.out.println("Real all = " + (readAllDate.getTime() - readDate.getTime()));
-			System.out.println("Update   = " + (updateDate.getTime() - readAllDate.getTime()));
-			System.out.println("Delete   = " + (deleteDate.getTime() - updateDate.getTime()));
+//			System.out.println("Read     = " + (readDate.getTime() - createDate.getTime()));
+			System.out.println("Real all = " + (readAllDate.getTime() - createDate.getTime()));
+//			System.out.println("Update   = " + (updateDate.getTime() - readAllDate.getTime()));
+			System.out.println("Delete   = " + (deleteDate.getTime() - readAllDate.getTime()));
 		}		
 	}
 
@@ -121,6 +126,10 @@ public class SpringSpeedTestClient {
 	
 	private static void deleteModel(int id) {
 		httpReq(serviceAAddress + "model/" + id, "DELETE", null, false);
+	}
+	
+	private static void clear() {
+		httpReq(serviceAAddress + "clear", "GET", null, false);
 	}
 	
 	private static String httpReq(String url, String method, String output, boolean responseRequired) {

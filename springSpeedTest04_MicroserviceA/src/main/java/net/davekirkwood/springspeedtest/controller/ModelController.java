@@ -57,4 +57,9 @@ public class ModelController {
 		return restTemplate.getForObject(dbMicroserviceAddress + "models", Collection.class);
 	}
 	
+	@RequestMapping("/clear")
+	public void clear() {
+		restTemplate.getForObject(dbMicroserviceAddress + "clear", Void.class);
+	}
+	
 }
