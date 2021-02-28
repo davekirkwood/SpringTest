@@ -18,7 +18,7 @@ public class Model {
 	
 	@Column(name = "modelNumber")
 	private int modelNumber;
-	
+		
 	public Model() {
 		super();
 	}
@@ -66,6 +66,8 @@ public class Model {
 	public synchronized void setModelNumber(int modelNumber) {
 		this.modelNumber = modelNumber;
 	}
+
+	
 	@Override
 	public String toString() {
 		return "MyModel [key=" + key + ", modelName=" + modelName + ", modelNumber=" + modelNumber + "]";

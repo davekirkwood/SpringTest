@@ -13,12 +13,12 @@ import net.davekirkwood.springspeedtest.model.Model;
 
 public class SpringSpeedTestClient {
 
-	private static final int MODEL_COUNT = 10000;
+	private static final int MODEL_COUNT = 5;
 
 	private static Date startDate;
 	
 	public static void main(String[] args) {
-		for(int z=0; z<100; z++) {
+//		for(int z=0; z<100; z++) {
 			
 			List<Model> myModels = new ArrayList<Model>();
 	
@@ -69,7 +69,7 @@ public class SpringSpeedTestClient {
 			System.out.println("Real all = " + (readAllDate.getTime() - readDate.getTime()));
 			System.out.println("Update   = " + (updateDate.getTime() - readAllDate.getTime()));
 			System.out.println("Delete   = " + (deleteDate.getTime() - updateDate.getTime()));
-		}
+//		}
 		
 	}
 
